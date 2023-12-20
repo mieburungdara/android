@@ -1,1 +1,8 @@
-[{"id":1,"nama":"org.telegram.messengerr"},{"id":2,"nama":"com.whatsapp.w4b"},{"id":3,"nama":"com.instagram.android"}]
+{
+  "version": 1,
+  "email": [
+    "org.telegram.messengerr",
+    "com.whatsapp.w4b",
+"com.instagram.android"
+  ]
+}

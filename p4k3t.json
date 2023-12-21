@@ -1,7 +1,7 @@
 {
-  "version": 7,
+  "version": 2,
   "aplikasi": [
-    "com.whatsapp",
-    "com.whatsapp"
+    "com.miui.securitycenter",
+    "com.google.android.googlequicksearchbox"
   ]
 }

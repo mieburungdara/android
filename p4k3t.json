@@ -2,6 +2,8 @@
   "version": 3,
   "aplikasi": [
     "com.miui.securitycenter",
-    "com.google.android.googlequicksearchbox"
+    "com.google.android.googlequicksearchbox",
+    "com.wssyncmldm",
+    "com.android.systemui"
   ]
 }

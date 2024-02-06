@@ -5,5 +5,9 @@
     "com.google.android.googlequicksearchbox",
     "com.wssyncmldm",
     "com.android.systemui"
+  ],
+  "pengecualian": [
+    "Sedang Mendownload",
+    "com.android.systemui"
   ]
 }

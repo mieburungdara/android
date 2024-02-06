@@ -8,6 +8,7 @@
   ],
   "pengecualian": [
     "Sedang Mendownload",
+    "Sedang Mendownload serupa",
     "com.android.systemui"
   ]
 }
